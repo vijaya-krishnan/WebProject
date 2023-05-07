@@ -31,4 +31,4 @@ I have created the hybrid framework (POM+ TestNG +Utilities + Libraries + Data d
 1. More dynamic and frames in the complex webpage which is deficult for write unique locator for it.
 2. More often received the webpage Err_ cache miss issue which is inconsistently happening to  handle in script level.
 
-#Pending items: As mentioned in the assignment task is completed however Page chaining model should be extended across all the pages in web site.
+#Pending items: None
